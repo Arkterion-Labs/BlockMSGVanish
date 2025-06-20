@@ -1,0 +1,6 @@
+name: ServerUtils
+version: 1.0
+main: prevent.msg.BlockMsgVanish
+api-version: 1.21
+description: Utiliy Plugin for Paper
+softdepend: [SuperVanish, PremiumVanish]
