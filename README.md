@@ -1,1 +1,1 @@
-Prevents players from seeing and PMing vanished players. 
+Prevent players from whispering or sending PMs to vanished players
