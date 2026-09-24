@@ -1,6 +1,8 @@
 name: ServerUtils
-version: 1.0
+version: 1.1
 main: prevent.msg.BlockMsgVanish
-api-version: 1.21
-description: Utiliy Plugin for Paper
+api-version: '26.2'
+description: Utility Plugin for Paper
+author: Arkterion Labs
+website: https://arkterion.com
 softdepend: [SuperVanish, PremiumVanish]

@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Local project files ###
+.idea/
+SuperVanish.jar
